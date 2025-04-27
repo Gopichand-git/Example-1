@@ -2,7 +2,8 @@ HAI THIS CHANGE IS HAPPEND CENTRAL REPO
 HAI THIS CHANGE IS HAPPEND LOCAL REPO
 class Main{
 psvm(String[] args){
-Strig name="Gopichand";
-String name="Chandu";
+Strig name1="Gopichand";
+String name2="Chandu";
   }
 }
+String name3 ="tanuri";
