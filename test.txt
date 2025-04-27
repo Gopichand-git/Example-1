@@ -6,3 +6,4 @@ Strig name="Gopichand";
 String name="Chandu";
   }
 }
+boolean status = false;
