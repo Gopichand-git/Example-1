@@ -6,8 +6,6 @@ Strig name1="Gopichand";
 String name2="Chandu";
   }
 }
-<<<<<<< HEAD
 String name3 ="tanuri";
-=======
+
 boolean status = false;
->>>>>>> c8080b21462c33367777dcd1ffda3a3c4eaa8402
